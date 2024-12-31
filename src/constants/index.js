@@ -177,7 +177,7 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Sajad proved me wrong.",
-      name: "Andrew jackson",
+      name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -193,10 +193,10 @@ import {
     {
       testimonial:
         "After Sajad optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+      name: "Andrew Jackson",
       designation: "CTO",
       company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: "https://images.unsplash.com/photo-1543132220-4bf3de6e10ae?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
   ];
   
