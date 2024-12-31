@@ -177,7 +177,7 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Sajad proved me wrong.",
-      name: "Sara Lee",
+      name: "Andrew jackson",
       designation: "CFO",
       company: "Acme Co",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
