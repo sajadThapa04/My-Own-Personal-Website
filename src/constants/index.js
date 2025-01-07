@@ -139,10 +139,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+       "Built and optimized cross-platform mobile apps with React Native.",
+       "Integrated RESTful APIs and third-party services.",
+       "Implemented responsive UI/UX designs from prototypes.",
+       "Debugged and enhanced app performance."
       ],
     },
     {
@@ -152,24 +152,24 @@ import {
       iconBg: "#383E56",
       date: "Jan 2022 - Sep 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
+       "Designed and developed responsive websites using modern frameworks.",
+        "Integrated APIs to enable dynamic functionality.",
+        "Optimized website performance and SEO.",
+        "Ensured cross-browser compatibility and bug fixes." ],
     },
     {
       title: "Full stack Developer",
       company_name: "Xero",
       icon: xero,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jan 2023 - Aug 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
+        "Developed and maintained scalable web applications with front-end and back-end integration.",
+        "Built RESTful APIs and implemented database management.",
+        "Designed responsive UI/UX and ensured cross-platform compatibility.",
+        "Debugged, optimized performance, and deployed applications."
+        ],
+        
     },
   ];
   
