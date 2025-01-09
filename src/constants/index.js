@@ -22,6 +22,8 @@ import {
     xero,
     woolworths,
     coles,
+    bluefin,
+    techJs,
     radford,
     carrent,
     jobit,
@@ -121,8 +123,8 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Woolworths",
-      icon: woolworths,
+      company_name: "Blue-Fin",
+      icon: bluefin,
       iconBg: "#383E56",
       date: "May 2020 - August 2023",
       points: [
@@ -147,8 +149,8 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Coles",
-      icon: coles,
+      company_name: "TechJs",
+      icon: techJs,
       iconBg: "#383E56",
       date: "Jan 2022 - Sep 2023",
       points: [

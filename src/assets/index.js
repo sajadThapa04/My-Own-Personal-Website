@@ -26,6 +26,8 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import woolworths from "./company/woolworths.png";
+import techJs from "./company/techJs.png";
+import bluefin from "./company/bluefin.png";
 import coles from "./company/coles.png";
 import radford from './company/radford.png';
 import xero from './company/xero.png'
@@ -62,6 +64,8 @@ export {
   woolworths,
   radford,
   coles,
+  bluefin,
+  techJs,
   xero,
   carrent,
   jobit,
